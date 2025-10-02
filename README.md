@@ -5,4 +5,6 @@
 
 系級：科技系2年級
 
-HW1(https://colab.research.google.com/drive/1zH28Re9ofAoCm6JraFFCEutBE4RoNVWG#scrollTo=iXKP6_W0hQlr)
+HW1 (https://colab.research.google.com/drive/1zH28Re9ofAoCm6JraFFCEutBE4RoNVWG#scrollTo=iXKP6_W0hQlr)
+HW2 （）
+HW2 + AI(https://colab.research.google.com/drive/1Qrki4FK4yAeLiBZOQ5qGwjdMBqXAY17k?usp=sharing)
