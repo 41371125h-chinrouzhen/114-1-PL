@@ -19,8 +19,3 @@
 [HW5](https://github.com/41371125h-chinrouzhen/114-1-PL/blob/main/HW5_%E9%A4%90%E5%BB%B3%E6%B1%BA%E7%AD%96%E5%99%A8.ipynb) 餐廳決策器
 
 [HW6](https://github.com/41371125h-chinrouzhen/114-1-PL/blob/main/HW6_%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E8%88%87%E6%8F%90%E9%86%92.ipynb) 課表查詢與提醒分析
-任務：
-資料擷取：成功從上傳的PDF課表檔案中自動解析並結構化資料，實現了資料來源的升級。
-資料同步：實現了課程查詢摘要和AI提醒結果的自動化，回寫至Google Sheet的獨立分頁中進行備份。
-智慧規劃：擴充了系統智能，能夠根據使用者輸入的目標，利用AI生成詳細的個人學習計畫。
-資源推薦：增加了課程延伸功能，能為指定課程推薦模擬的YouTube教學影片和延伸閱讀資源。
