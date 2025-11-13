@@ -15,3 +15,8 @@
 備注：資料視覺化的部分只能針對新增的任務。
 
 [HW4](https://github.com/41371125h-chinrouzhen/114-1-PL/blob/main/HW4_Github%E6%8A%80%E8%A1%93%E8%B6%A8%E5%8B%A2%E7%88%AC%E8%9F%B2%2BAI%E6%96%87%E5%AD%97%E5%88%86%E6%9E%90.ipynb) Github技術趨勢爬蟲+AI文字分析
+
+[HW5](https://github.com/41371125h-chinrouzhen/114-1-PL/blob/main/HW4_Github%E6%8A%80%E8%A1%93%E8%B6%A8%E5%8B%A2%E7%88%AC%E8%9F%B2%2BAI%E6%96%87%E5%AD%97%E5%88%86%E6%9E%90.ipynb) 餐廳決策器
+
+[HW6](https://github.com/41371125h-chinrouzhen/114-1-PL/blob/main/HW6_%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E8%88%87%E6%8F%90%E9%86%92.ipynb) 課表查詢與提醒分析
+
